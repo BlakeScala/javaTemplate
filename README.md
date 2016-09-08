@@ -1,6 +1,6 @@
 # _Template_
 
-#### By _Ewa Manek and Jason Downing_
+#### By __
 
 ## Description
 
@@ -21,4 +21,4 @@ https://github.com/ewajm/javaTemplate
 
 * MIT
 
-Copyright (c) 2016 **_Ewa Manek and Jason Downing_**
+Copyright (c) 2016 **__**
